@@ -6,7 +6,7 @@
 
 ### Github Analytics
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fflow021&show_icons=true&theme=nightowl&include_all_commits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fflow021&show_icons=true&theme=nightowl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fflow021&layout=compact&theme=nightowl">
 </div>
 
