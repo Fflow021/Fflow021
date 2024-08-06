@@ -17,9 +17,8 @@
   <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
 </div>
 
-## S T U D Y I N G ⠀/ ⠀T O⠀ S T U D Y 📖
+## T O⠀ S T U D Y 📖
 <div>
-  <img img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>
 
