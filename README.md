@@ -6,7 +6,7 @@
 
 ### Github Analytics
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fflow021&show_icons=true&theme=nightowl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fflow021&include_all_commits=true&show_icons=true&theme=nightowl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fflow021&layout=compact&theme=nightowl">
 </div>
 
@@ -15,6 +15,9 @@
   <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"/>
+  <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="center" height= "60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    
 </div>
 
 ## T O⠀ S T U D Y 📖
