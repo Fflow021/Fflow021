@@ -1,8 +1,9 @@
 # Phillipe Wolff
-## Freelancer Developer
-- Striving to improve everyday
+## Back-end Developer
+- Student at Estácio de Sá
 - Currently working in freelancer projects
 - Looking for Trainne and Entry-level opportunities
+- Striving to improve everyday
 
 ### Github Analytics
 <div>
