@@ -1,8 +1,7 @@
 # Phillipe Wolff
 ## Back-end Developer
 - Student at Estácio de Sá
-- Currently working in freelancer projects
-- Looking for Trainne and Entry-level opportunities
+- Currently working in CI&T
 - Striving to improve everyday
 
 ### Github Analytics
